@@ -6,4 +6,5 @@ export const adminUser: AdminUser = {
   name: "Ana",
   permissions: ["green", "write"],
   email: "ana@gmail.com"
+
 };
