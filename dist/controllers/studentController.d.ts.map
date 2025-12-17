@@ -1,0 +1,1 @@
+{"version":3,"file":"studentController.d.ts","sourceRoot":"","sources":["../../src/controllers/studentController.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,MAAM;IAAG,SAAS,EAAE,MAAM,CAAC;IAAC,QAAQ,EAAE,MAAM,CAAA;CAAE;AAC/D,MAAM,WAAW,OAAQ,SAAQ,MAAM;IAAG,KAAK,EAAE,MAAM,CAAA;CAAE;AAEzD,eAAO,MAAM,OAAO,EAAE,OAIrB,CAAC;AAEF,wBAAgB,gBAAgB,CAAC,CAAC,EAAE,OAAO,GAAG,IAAI,CAEjD"}
